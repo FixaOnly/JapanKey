@@ -1,0 +1,10 @@
+@echo off
+echo Menjalankan Emulator dan Anti-Cheat...
+
+:: Ganti path ini dengan lokasi emulator kamu
+start "" "C:\Program Files\BlueStacks_nxt\HD-Player.exe"
+
+:: Ganti path ini dengan lokasi file anti-cheat yang kamu buat
+start "" "C:\Users\NamaKamu\Desktop\anti_cheat.bat"
+
+exit
